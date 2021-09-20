@@ -1,2 +1,2 @@
 # Student-Management-System
-( Spring Boot + Thymeleaf) 
+( Spring Boot + Thymeleaf + MySQL + Jpa Hibernate) 
